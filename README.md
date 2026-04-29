@@ -14,10 +14,14 @@
 
 ### Tools & Languages
 
-● Python, Javascript, VS Code (Visual Studio Code)
-● Discord.js ~ A popular library to interact with the Discord API using JavaScript or TypeScript.
-● Discord.py ~ A robust library for building bots with Python, often used with async/await syntax for event handling.
-● Node.js ~ The fundamental runtimes needed to execute bot code.
-● LibSQL ~ Used for database management to store bot data efficiently.
+• Python, Javascript, VS Code (Visual Studio Code)
+
+• Discord.js ~ A popular library to interact with the Discord API using JavaScript or TypeScript.
+
+• Discord.py ~ A robust library for building bots with Python, often used with async/await syntax for event handling.
+
+• Node.js ~ The fundamental runtimes needed to execute bot code.
+
+• LibSQL ~ Used for database management to store bot data efficiently.
 
 ═══════════════════════════════════════════════════════════════════════════════
