@@ -29,6 +29,9 @@
 ### A Bit About Me
 
 • 💪🏼 I like doing fitness and physical exercises
+
 • 🥤 Like drinking coffee to get a better mood through the day
+
 • 📜 Into anime - Demon Slayer is a favorite
+
 • 🧱 I like building things that are simple, useful, and easy to understand
