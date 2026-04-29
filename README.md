@@ -26,7 +26,7 @@
 
 ═══════════════════════════════════════════════════════════════════════════════
 
-### A Bit About Me
+### Fun Facts:
 
 • 💪🏼 I like doing fitness and physical exercises
 
