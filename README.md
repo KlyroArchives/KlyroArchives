@@ -12,7 +12,7 @@
 
 ═══════════════════════════════════════════════════════════════════════════════
 
-### Tools & Languages
+__### Tools & Languages Used__
 
  • Python, Javascript, VS Code (Visual Studio Code)
 
